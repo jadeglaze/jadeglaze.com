@@ -1,0 +1,43 @@
+body {
+  background: white;
+  color: lightgray;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  height: 100%;
+  margin: 0;
+  overflow-x: hidden;
+  padding: 0;
+  width: 100%;
+}
+h1, h2, h3, h4, h5, p {
+  font-weight: normal;
+  margin: 0;
+  padding: .3em 0;
+  width: 100%;
+}
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 2.5em;
+  line-height: 115%;
+  margin: 0 auto;
+  max-width: 8.5em;
+  text-align: center;
+}
+.typcn {
+  font-family: 'typicons';
+  font-size: 3.0em;
+  text-align: center;
+  top: 100px;
+}
+.typcn:hover {
+  color: gray;
+}
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+a.social {
+  margin: 0;
+  text-decoration: none;
+  color: lightgray;
+}
